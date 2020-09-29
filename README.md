@@ -32,7 +32,7 @@ We edit this function for each outcome and goal. Then we need to calculate the t
 
 ### Challenges and Difficulties Encountered
 
-During this challenge, there were no significant difficulties encountered. The analysis was simple to perform and the results were simple to deduce. Some possible difficulties one might encounter could be 
+During this challenge, there were no significant difficulties encountered. The analysis was simple to perform and the results were simple to deduce. Some possible difficulties one might encounter could be if the data was not uniform. For example, if there were values in the outcomes column that were not successful, failed, canceled, or live. When datasets contain user input errors or system generation errors that can cause problems. Another challenge could arise if the data didn't present clear outcomes. Luckily, we could easily see what the data was telling us. However, if the data was all over the place with no clear story to tell, that could make making an informed decision more difficult. Another challenge could arise if the data were not all in one place. Conveniently for us, the Kickstarter data was in one sheet. Oftentimes, data will be stored in different sheets or in a different system entirely.
 
 ## Results
 
@@ -45,5 +45,7 @@ Looking at the outcomes based on launch date for theater campaigns it is clear t
 Looking at outcomes based on goals for plays we can see that there is an inverse relationship between the percentage of failed vs sucessful outcomes based on goal. There were no outcomes for canceled plays. Based on our analysis, we can see that if the goal for a play is less than $15,000 or between $35,000 and $44,999 then we will likely have a successful outcome. We can also see that if there is a goal set for $45,000 or higher the chances for a successful outcome drastically declines.
 
 - What are some limitations of this dataset?
+
+Some limitations of this dataset 
 
 - What are some other possible tables and/or graphs that we could create?
