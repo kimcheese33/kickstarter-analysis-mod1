@@ -22,7 +22,7 @@ To perform the analysis of theater outcomes based on launch date we need to crea
 
 To perform the analysis of play outcomes based on goals we first need to set up our sheet. We need to set up our goal ranges in the first column then set up subsequent columns to store the count of successful, failed, and canceled outcomes, the total number of projects, and the percentage for each kind of outcome. After we have our sheet set up we can use the COUNTIFS() function to get the outcome type (successful, failed, or canceled), the goal range, and then filter the count based on subcategory (plays). Here is an example of what our function looks like:
 
-=COUNTIFS(Kickstarter!F:F,"successful",Kickstarter!D:D,">=1000",Kickstarter!D:D,"<=4999",Kickstarter!O:O,"plays")
+=COUNTIFS(Kickstarter!F:F,"successful",Kickstarter!D:D,">=1000",Kickstarter!D:D,"<5000",Kickstarter!O:O,"plays")
 
 We edit this function for each outcome and goal. Then we need to calculate the total projects by adding the counts for each outcome using SUM(). Finally, we calculate the percentage by dividing the outcome count by the total count and setting the cell type to Percentage. Now that we have our data set up the way we want we can generate a line chart as shown below:
 
