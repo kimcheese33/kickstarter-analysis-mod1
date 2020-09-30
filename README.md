@@ -46,6 +46,8 @@ Looking at outcomes based on goals for plays we can see that there is an inverse
 
 - What are some limitations of this dataset?
 
-Some limitations of this dataset 
+One limitation is that not all countries are represented in this dataset. Only 21 countries were included in this dataset for reasons unknown. Did Kickstarter have no campaigns in other countries or were other countries just filtered out? 
+Another limitation is that we only have data for 2009 up until 2017. Assuming Louise is trying to fundraise her play in a more current year, it would be a limitation to not have more current data.
+
 
 - What are some other possible tables and/or graphs that we could create?
