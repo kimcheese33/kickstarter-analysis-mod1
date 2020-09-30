@@ -51,3 +51,7 @@ Another limitation is that we only have data for 2009 up until 2017. Assuming Lo
 
 
 - What are some other possible tables and/or graphs that we could create?
+
+We could create a line graph showing outcomes based on how long a campaign runs. Perhaps the longer a campaign runs the more successful it is or vice versa. To create a graph like this we could follow a similar process to Outcomes Based on Goal except using month ranges instead of goal ranges. We could also create a stacked bar graph showing campaign outcomes for plays based on country. Perhaps plays are more successful in the US versus Australia. Lastly, we could produce a stacked bar graph showing outcomes for plays based on whether it was a staff pick. Staff pick wasn't a column that was mentioned throughout this exercise, but it could play a role in the outcome. Perhaps campaigns that get staff pick approval are more successful, perhaps not.
+
+
