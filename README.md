@@ -42,7 +42,7 @@ Looking at the outcomes based on launch date for theater campaigns it is clear t
 
 - What can you conclude about the Outcomes based on Goals?
 
-Looking at outcomes based on goals for plays we can see that there is an inverse relationship between the percentage of failed vs sucessful outcomes based on goal. There were no outcomes for canceled plays. Based on our analysis, we can see that if the goal for a play is less than $15,000 or between $35,000 and $44,999 then we will likely have a successful outcome. We can also see that if there is a goal set for $45,000 or higher the chances for a successful outcome drastically declines.
+Looking at outcomes based on goals for plays we can see that there is an inverse relationship between the percentage of failed vs sucessful outcomes based on goal. There were no outcomes for canceled plays. Based on our analysis, we can see that for the number of outcomes the highest percentage of success occurs when the goal is set at $5000 or less. This makes sense, because the lower the goal the easier it is to reach. We can also see that if there is a goal set for $45,000 or higher the chances for a successful outcome drastically declines.
 
 - What are some limitations of this dataset?
 
